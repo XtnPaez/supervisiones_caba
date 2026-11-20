@@ -1,0 +1,24 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Atlas educativo | Supervisiones CABA</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><link rel="stylesheet" href="css/estilos.css"></head><body>
+<header><div><strong>Atlas educativo CABA</strong><span>Establecimientos y territorios de supervisión</span></div><div class="header-actions"><button id="reset">Restablecer</button><button id="export">Exportar filtrados · CSV</button></div></header>
+<main><aside class="filters"><h2>Explorar</h2><label for="level">Nivel educativo</label><select id="level"></select><label for="search">Buscar establecimiento</label><input id="search" type="search" placeholder="Nombre, CUE, dirección…"><label for="comuna">Comuna</label><select id="comuna"></select><label for="supervision">Supervisión</label><select id="supervision"></select><h3>Capas territoriales</h3><label class="check"><input id="showTerritory" type="checkbox" checked> Supervisiones del nivel</label><label class="check"><input id="showComunas" type="checkbox"> Comunas</label><label class="check"><input id="showBarrios" type="checkbox"> Barrios</label><p class="hint">Seleccioná un polígono para filtrar los establecimientos que contiene. Podés combinarlo con los demás filtros.</p><div id="activeSpatial" class="spatial"></div><div class="summary"><span id="count">0</span><small>establecimientos visibles</small></div></aside>
+<section class="workspace"><div class="mapbar"><span id="maptitle">Mapa de establecimientos</span><button id="fit">Ver todos</button></div><div id="map" role="application" aria-label="Mapa interactivo de establecimientos educativos de CABA"></div><div class="tablebar"><strong>Establecimientos</strong><span id="tablecount"></span><label>Filas por página <select id="pagesize"><option>25</option><option selected>50</option><option>100</option><option>250</option></select></label></div><div class="table-scroll" tabindex="0"><table id="results"><thead></thead><tbody></tbody></table></div><div class="pagination"><button id="prev">Anterior</button><span id="page"></span><button id="next">Siguiente</button></div></section>
+<aside class="details" id="details"><h2>Ficha del establecimiento</h2><p class="muted">Seleccioná un punto del mapa o una fila de la tabla para consultar todos sus atributos.</p></aside></main>
+<footer>Fuente: exportaciones CSV y GeoJSON del proyecto · Coordenadas WGS84 · Los datos se consultan localmente; los mapas base requieren conexión.</footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="js/catalogo.js"></script>
+<script src="data/establecimientos/adultos_primaria.js"></script>
+<script src="data/establecimientos/adultos_secundaria.js"></script>
+<script src="data/establecimientos/artistica.js"></script>
+<script src="data/establecimientos/especial.js"></script>
+<script src="data/establecimientos/inicial.js"></script>
+<script src="data/establecimientos/media.js"></script>
+<script src="data/establecimientos/normales.js"></script>
+<script src="data/establecimientos/primaria.js"></script>
+<script src="data/establecimientos/tecnica.js"></script>
+<script src="data/territorios/barrios_caba.js"></script>
+<script src="data/territorios/comunas_caba.js"></script>
+<script src="data/territorios/supervision_adultos.js"></script>
+<script src="data/territorios/supervision_especial.js"></script>
+<script src="data/territorios/supervision_inicial_primaria.js"></script>
+<script src="data/territorios/supervision_media.js"></script>
+<script src="data/territorios/supervision_tecnica.js"></script>
+<script src="js/app.js"></script></body></html>

@@ -1,0 +1,6 @@
+ATLAS EDUCATIVO CABA
+
+Abrir index.html con doble clic.
+Requiere conexión a Internet para cargar Leaflet y el mapa base OpenStreetMap.
+Los establecimientos y polígonos se cargan localmente, sin servidor.
+Para actualizar datos, usar el repositorio completo y scripts/preparar_datos.py.

@@ -1,0 +1,19 @@
+"cueanexo","nombre","direccion","sec_aprende","intensificacion","nivel_turnos","lat","lon","comuna","supervision"
+20053600,"Escuela Normal Superior N°3 Bernardino Rivadavia | Comuna 1","BOLIVAR 1235","SI","-","Inicial: Doble | Primario: Doble | Secundario: Mañana",-34.62234,-58.37288,1,NULL
+20058400,"Instituto de Enseñanza Superior en Lenguas Vivas Juan Ramón Fernández | Comuna 1","CARLOS PELLEGRINI 1515","NO","BILINGUE","Primario: Tarde | Secundario: Mañana",-34.59092,-58.38137,1,NULL
+20069600,"Escuela Normal Superior en Lenguas Vivas N°1 Presidente Roque Sáenz Peña | Comuna 2","AVDA. CORDOBA 1951","SI","BILINGUE","Inicial: Mañana,Tarde | Primario: Doble,Mañana,Tarde | Secundario: Mañana",-34.59952,-58.3951,2,NULL
+20070800,"Escuela Normal Superior en Lenguas Vivas Sofía Broquen de Spangenberg | Comuna 14","JUNCAL 3251","SI","BILINGUE","Inicial: Mañana,Tarde | Primario: Tarde | Secundario: Mañana",-34.58528,-58.41039,14,NULL
+20071700,"Escuela Normal Superior N°6 Vicente López y Planes | Comuna 14","GUEMES 3859","NO","-","Inicial: Mañana,Tarde | Primario: Tarde | Secundario: Mañana",-34.5869,-58.41607,14,NULL
+20086600,"Escuela Normal Superior en Lenguas Vivas N°2 Mariano Acosta | Comuna 3","GRAL. URQUIZA 277","NO","INTENSIFICACIÓN EN LENGUA ADICIONAL A C/ COMPETENCIAS EN LENGUA ADICIONAL B","Inicial: Mañana,Tarde | Primario: Mañana,Tarde | Secundario: Tarde",-34.61371,-58.41002,3,NULL
+20089500,"Instituto de Enseñanza Superior en Lenguas Vivas Juan B. Justo | Comuna 11","LASCANO 3840","NO","BILINGUE","Primario: Doble | Secundario: Doble,Tarde",-34.61306,-58.4959,11,NULL
+20089501,"Instituto de Enseñanza Superior en Lenguas Vivas Juan B. Justo | Comuna 11","LASCANO 3810",NULL,NULL,"Inicial: Doble",-34.61296,-58.49571,11,NULL
+20099700,"Escuela Normal Superior N°7 José María Torres | Comuna 5","AVDA. CORRIENTES 4261","NO","-","Inicial: Mañana,Tarde | Primario: Doble,Mañana | Secundario: Mañana",-34.60258,-58.42498,5,NULL
+20117700,"Escuela Normal Superior N°9 Domingo Faustino Sarmiento | Comuna 3","AVDA. CALLAO 450","2027","-","Inicial: Mañana,Tarde | Primario: Mañana,Tarde | Secundario: Tarde",-34.60382,-58.39251,3,NULL
+20121400,"Escuela Normal Superior N°10 Juan Bautista Alberdi | Comuna 13","O'HIGGINS 2441","NO","-","Primario: Tarde | Secundario: Mañana",-34.55658,-58.4556,13,NULL
+20121401,"Escuela Normal Superior N°10 Juan Bautista Alberdi | Comuna 13","3 DE FEBRERO 2463",NULL,NULL,"Inicial: Mañana,Tarde",-34.55601,-58.4547,13,NULL
+20129700,"Escuela Normal Superior N°4 Estanislao Severo Zeballos | Comuna 6","AVDA. RIVADAVIA 4950","NO","-","Inicial: Doble | Primario: Doble | Secundario: Mañana",-34.61805,-58.43527,6,NULL
+20132800,"Escuela Normal Superior N°5 Gral. Martín Miguel de Güemes | Comuna 4","ARCAMENDIA 743","SI","-","Inicial: Doble | Primario: Doble,Mañana,Tarde | Secundario: Mañana",-34.64099,-58.38014,4,NULL
+20132901,"Instituto Superior del Profesorado de Educación Inicial Sara C. de Eccleston | Comuna 14","AVDA. DORREGO 3723",NULL,NULL,"Inicial: Doble",-34.56472,-58.41876,14,NULL
+20169300,"Escuela Normal Superior N°11 Dr. Ricardo Levene | Comuna 4","DEAN FUNES 1821","NO","-","Inicial: Mañana,Tarde | Primario: Tarde | Secundario: Tarde",-34.63208,-58.40485,4,NULL
+20177800,"Escuela Normal Superior N°8 Presidente Julio Argentino Roca | Comuna 3","LA RIOJA 1042","NO","-","Secundario: Tarde",-34.62261,-58.40708,3,NULL
+20177801,"Escuela Normal Superior N°8 Presidente Julio Argentino Roca - Anexo | Comuna 3","CARLOS CALVO 3150",NULL,NULL,"Inicial: Mañana,Tarde | Primario: Mañana,Tarde",-34.6227,-58.40975,3,NULL
